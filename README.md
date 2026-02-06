@@ -12,5 +12,6 @@ A repository of my personal projects
 - Projects related to Backend Development
 - Projects related to Simple Game Development
 - Projects related to Desktop Applications
+- Projects related to Agentic AI
 ## Project Titles:
 - Moving Sparkles
