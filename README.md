@@ -13,5 +13,6 @@ A repository of my personal projects
 - Projects related to Simple Game Development
 - Projects related to Desktop Applications
 - Projects related to Agentic AI
+- Projects related to Homelabbing
 ## Project Titles:
 - Moving Sparkles
