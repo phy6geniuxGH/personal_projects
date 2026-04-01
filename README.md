@@ -16,5 +16,6 @@ A repository of my personal projects
 - Projects related to Homelabbing
 - Projects related to Web development
 - Projects related to Software Development
+- Projects related to Nature of Code by Daniel Shiffman
 ## Project Titles:
 - Moving Sparkles
