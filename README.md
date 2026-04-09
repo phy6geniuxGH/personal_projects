@@ -18,5 +18,6 @@ A repository of my personal projects
 - Projects related to Software Development
 - Projects related to Nature of Code by Daniel Shiffman
 - Projects implemented in Google Colab
+- Projects related to optimization problems
 ## Project Titles:
 - Moving Sparkles
