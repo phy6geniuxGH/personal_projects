@@ -19,5 +19,7 @@ A repository of my personal projects
 - Projects related to Nature of Code by Daniel Shiffman
 - Projects implemented in Google Colab
 - Projects related to optimization problems
+- Custom projects for simple tasks
 ## Project Titles:
 - Moving Sparkles
+- Pings with Trailing Lines
