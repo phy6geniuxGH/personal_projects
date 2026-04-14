@@ -21,6 +21,7 @@ A repository of my personal projects
 - Projects related to optimization problems
 - Projects related to vector embeddings
 - Custom projects for simple tasks
+- Application Development Projects
 ## Project Titles:
 - Moving Sparkles
 - Pings with Trailing Lines
