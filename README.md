@@ -22,6 +22,7 @@ A repository of my personal projects
 - Projects related to vector embeddings
 - Custom projects for simple tasks
 - Application Development Projects
+- Projects with CustomTkinter Frontend
 ## Project Titles:
 - Moving Sparkles
 - Pings with Trailing Lines
