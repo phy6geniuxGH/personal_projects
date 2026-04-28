@@ -26,4 +26,4 @@ A repository of my personal projects
 ## Project Titles:
 - Moving Sparkles
 - Pings with Trailing Lines
-- Desmos Tiktok uploads
+- thyAIself_app
