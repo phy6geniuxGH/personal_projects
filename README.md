@@ -27,3 +27,4 @@ A repository of my personal projects
 - Moving Sparkles
 - Pings with Trailing Lines
 - thyAIself_app
+- data_encryptor
