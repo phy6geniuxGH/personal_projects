@@ -28,3 +28,4 @@ A repository of my personal projects
 - Pings with Trailing Lines
 - thyAIself_app
 - data_encryptor
+- hospy_app
