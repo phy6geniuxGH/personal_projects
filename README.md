@@ -23,6 +23,7 @@ A repository of my personal projects
 - Custom projects for simple tasks
 - Application Development Projects
 - Projects with CustomTkinter Frontend
+- AI Automation and Integration
 ## Project Titles:
 - Moving Sparkles
 - Pings with Trailing Lines
