@@ -30,3 +30,5 @@ A repository of my personal projects
 - thyAIself_app
 - data_encryptor
 - hospy_app
+- ief python file CLI - Item, Execution, Feedback
+- gridmap - random terrain generator
