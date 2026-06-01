@@ -27,6 +27,8 @@ A repository of my personal projects
 ## Project Titles:
 - Moving Sparkles
 - Pings with Trailing Lines
+- IEF Python CLI
+- Journal Analyzer
 - thyAIself_app
 - data_encryptor
 - hospy_app
