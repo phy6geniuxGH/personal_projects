@@ -34,3 +34,4 @@ A repository of my personal projects
 - hospy_app
 - ief python file CLI - Item, Execution, Feedback
 - gridmap - random terrain generator
+- AOSSBrain - Agentic Operating System for Second Brain
