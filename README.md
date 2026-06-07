@@ -35,3 +35,4 @@ A repository of my personal projects
 - ief python file CLI - Item, Execution, Feedback
 - gridmap - random terrain generator
 - AOSSBrain - Agentic Operating System for Second Brain
+- particle_collisions
